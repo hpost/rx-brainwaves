@@ -22,7 +22,7 @@ brainwaves.connectionStates()
 // Connect
 brainwaves.connect(bluetoothAddress)
 
-//Disconnect
+// Disconnect
 brainwaves.disconnect()
 ```
 
